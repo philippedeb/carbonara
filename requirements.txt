@@ -1,0 +1,10 @@
+numpy
+pandas
+dask
+vaex
+polars
+streamlit
+scipy
+plotly
+wmi
+psutil
