@@ -1,8 +1,6 @@
-
-
 <img src='data/img/carbonara header.png' width='600px'>
 
-Carbonara 🍝 is a Windows tool to compare energy consumption of code using Intel Power Gadget (3.6). Hopefully, this can lead to insights on how we can reduce carbon emmissions as a community. This project is not actively maintained and did not have a focus on proper code quality, merely effectiveness of the tool for realising quick academic research.
+Carbonara 🍝 is a Windows tool to compare the energy consumption of Python code using Intel Power Gadget (3.6). Hopefully, this can lead to insights into how we can reduce carbon emissions as a community. This project is not actively maintained and did not have a focus on proper code quality, merely the effectiveness of the tool for realising quick academic research.
 
 <img src='https://img.shields.io/badge/version-v1.0.0-yellow'>
 <img src='https://img.shields.io/badge/release%20date-march%202023-red'>
